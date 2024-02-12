@@ -1,0 +1,21 @@
+You can then open this file using a text editor like Notepad or any other code editor.
+
+Here are some key points about text files:
+
+1. **File Extensions:**
+   - Text files typically have file extensions like `.txt`.
+   - Examples: `example.txt`, `document.txt`
+
+2. **Content Format:**
+   - Text files contain human-readable text.
+   - The content can be ASCII, Unicode, or other character encodings.
+
+3. **Editing:**
+   - Text files can be edited using any text editor, such as Notepad on Windows, TextEdit on macOS, or various code editors like VSCode, Sublime Text, etc.
+
+4. **Structure:**
+   - Text files don't have a specific structure or formatting like binary files.
+   - They are a simple sequence of characters.
+
+5. **Size:**
+   - Text files tend to be smaller in size compared to binary files since they store text characters.
